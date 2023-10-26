@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TemperatureConverter</string>
+
+    <string name="Celsius">Celsius(°C)</string>
+    <string name="Fahrenheit">Fahrenheit(°F)</string>
+    <string name="ConvertToCelsius">Convert to (°C)</string>
+    <string name="ConvertToFahrenheit">Convert to (°F)</string>
+    <string name="Reset">Reset</string>
+</resources>
